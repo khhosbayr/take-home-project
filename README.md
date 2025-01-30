@@ -1,7 +1,7 @@
 Суулгасан байх хэрэгтэй зүйлс:
 VSCode
 Node.js
-Мөн C:\Program Files\nodejs PATH enviroment variable дотроо хийсэн байх шаардлагатай (npm команд ажиллахгүй байгаа тохиолдолд).
+Мөн "C:\Program Files\nodejs" URL ийг PATH enviroment variable дотроо хийсэн байх шаардлагатай (npm команд ажиллахгүй байгаа тохиолдолд).
 
 Үүний дараа VSCode руу орон шинэ Terminal үүсгэн Github ийн Repository доторх Code хэсгээс HTTPS URL ийг хуулж авна.
 
